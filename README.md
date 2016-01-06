@@ -1,0 +1,3 @@
+# MuseoErick
+Proyecto museo
+.log
